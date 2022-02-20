@@ -6,7 +6,7 @@ https://github7.netlify.app/
 ## Local Setup
 
 ```sh
-$ git clone https://github.com/adhit7/github-finder-react
+$ git clone git@github.com:adhit7/github-finder-react.git
 ```
 
 ```sh
