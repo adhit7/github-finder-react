@@ -1,6 +1,7 @@
 # Github Finder
 
 It is react based web application for searching and viewing the github profile and used Github API.
+https://github7.netlify.app/
 
 ## Local Setup
 
